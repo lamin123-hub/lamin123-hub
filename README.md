@@ -4,14 +4,6 @@
 
 📍 Chicago, IL · 🎓 University of Illinois Chicago
 
-
-<a href="https://www.linkedin.com/in/la-min-aung-9594a1347/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-       alt="LinkedIn"
-       width="40"
-       height="40"/>
-</a>
- https://www.linkedin.com/in/la-min-aung-9594a1347/
 ---
 
 ## 🧠 A Little About Me
